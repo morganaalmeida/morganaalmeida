@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morganaalmeida
 - 👀 I’m interested in Data Science and Data Governance.
-- 🌱 I’m currently learning Python, SQL, LGPD, Docker, Kubernetes and a bunch of other things :D
+- 🌱 I’m currently learning Python, SQL, LGPD, Docker, Kubernetes and a lot of other things :D
 - 💞️ I’m looking to collaborate in data analysis projects, projects that involve diagnosis and improvements for health and other things that are interesting for the community.
 - 📫 morgana.qalmeida@gmail.com
 
